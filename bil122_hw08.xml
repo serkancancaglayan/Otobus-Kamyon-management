@@ -1,0 +1,280 @@
+﻿<!-- Serkan Can Caglayan 18120205021 -->
+<?xml version="1.0"?>
+<Araclar>
+    <Arac>
+      <Turu>Otobus</Turu>
+        <Plaka>34BİL122</Plaka>
+        <Suruculer>
+            <Surucu>
+                <Adi>Ahmet Uzunyol</Adi>
+                <Yasi>43</Yasi>
+                <EhliyetSinifi>E</EhliyetSinifi>
+            </Surucu>
+            <Surucu>
+                <Adi>Mehmet Sollamaz</Adi>
+                <Yasi>34</Yasi>
+                <EhliyetSinifi>E</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yolcular>
+            <Yolcu>
+                <Adi>Ayşe Çokgezer</Adi>
+                <BinisNoktasi>İstanbul</BinisNoktasi>
+                <InisNoktasi>Balıkesir</InisNoktasi>
+            </Yolcu>
+            <Yolcu>
+                <Adi>Sefa Camkenarı</Adi>
+                <BinisNoktasi>İstanbul</BinisNoktasi>
+                <InisNoktasi>İzmir</InisNoktasi>
+            </Yolcu>
+            <Yolcu>
+                <Adi>Fatma İndiBindi</Adi>
+                <BinisNoktasi>İstanbul</BinisNoktasi>
+                <InisNoktasi>Gebze</InisNoktasi>
+            </Yolcu>
+        </Yolcular>
+    </Arac>
+    <Arac>
+        <Turu>Kamyon</Turu>
+        <Plaka>41CPP11</Plaka>
+        <OzluSoz>Al yazmalım</OzluSoz>
+        <Suruculer>
+            <Surucu>
+                <Adi>Mert Derttaşır</Adi>
+                <Yasi>55</Yasi>
+                <EhliyetSinifi>E</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yukler>
+            <Yuk>
+                <Icerik>Gouda Peyniri</Icerik>
+                <Agirlik>40</Agirlik>
+                <Hacim>30</Hacim>
+                <Alici>Ferhat Gurmeoğlu</Alici>
+                <BinisNoktasi>Ardahan</BinisNoktasi>
+                <InisNoktasi>Bolu</InisNoktasi>
+            </Yuk>
+        </Yukler>
+    </Arac>
+    <Arac>
+        <Turu>Otobus</Turu>
+        <Plaka>34BİL123</Plaka>
+        <Suruculer>
+            <Surucu>
+                <Adi>Serkan Can Caglayan</Adi>
+                <Yasi>34</Yasi>
+                <EhliyetSinifi>D</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yolcular>
+            <Yolcu>
+                <Adi>Semih Demir</Adi>
+                <BinisNoktasi>İstanbul</BinisNoktasi>
+                <InisNoktasi>Mersin</InisNoktasi>
+            </Yolcu>
+        </Yolcular>
+    </Arac>
+    <Arac>
+        <Turu>Otobus</Turu>
+        <Plaka>34BİL124</Plaka>
+        <Suruculer>
+            <Surucu>
+                <Adi>Hasan Fehmi Ozturk</Adi>
+                <Yasi>51</Yasi>
+                <EhliyetSinifi>C</EhliyetSinifi>
+            </Surucu>
+            <Surucu>
+                <Adi>Egemen Yapucu</Adi>
+                <Yasi>50</Yasi>
+                <EhliyetSinifi>C</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yolcular></Yolcular>
+    </Arac>
+    <Arac>
+        <Turu>Otobus</Turu>
+        <Plaka>34BİL125</Plaka>
+        <Suruculer>
+            <Surucu>
+                <Adi>Sokrates</Adi>
+                <Yasi>41</Yasi>
+                <EhliyetSinifi>E</EhliyetSinifi>
+            </Surucu>
+            <Surucu>
+                <Adi>Hypatia</Adi>
+                <Yasi>34</Yasi>
+                <EhliyetSinifi>E</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yolcular>
+            <Yolcu>
+                <Adi>Galileo Galilei</Adi>
+                <BinisNoktasi>İstanbul</BinisNoktasi>
+                <InisNoktasi>Pisa</InisNoktasi>
+            </Yolcu>
+            <Yolcu>
+                <Adi>Albert Einstein</Adi>
+                <BinisNoktasi>İstanbul</BinisNoktasi>
+                <InisNoktasi>Berlin</InisNoktasi>
+            </Yolcu>
+            <Yolcu>
+                <Adi>Stephan Hawking</Adi>
+                <BinisNoktasi>İstanbul</BinisNoktasi>
+                <InisNoktasi>Cambridge</InisNoktasi>
+            </Yolcu>
+            <Yolcu>
+                <Adi>Richard Feynman</Adi>
+                <BinisNoktasi>İstanbul</BinisNoktasi>
+                <InisNoktasi>Los Angeles</InisNoktasi>
+            </Yolcu>
+            <Yolcu>
+                <Adi>Isaac Newton</Adi>
+                <BinisNoktasi>İstanbul</BinisNoktasi>
+                <InisNoktasi>Londra</InisNoktasi>
+            </Yolcu>
+        </Yolcular>
+    </Arac>
+    <Arac>
+        <Turu>Otobus</Turu>
+        <Plaka>34BİL126</Plaka>
+        <Suruculer>
+            <Surucu>
+                <Adi>Serkan Can Caglayan</Adi>
+                <Yasi>34</Yasi>
+                <EhliyetSinifi>D</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yolcular>
+            <Yolcu>
+                <Adi>Egemen Yapucu</Adi>
+                <BinisNoktasi>İstanbul</BinisNoktasi>
+                <InisNoktasi>World of Warcraft Universe</InisNoktasi>
+            </Yolcu>
+            <Yolcu>
+                <Adi>Leeroy Jenkins</Adi>
+                <BinisNoktasi>İstanbul</BinisNoktasi>
+                <InisNoktasi>World of Warcraft Universe</InisNoktasi>
+            </Yolcu>
+            <Yolcu>
+                <Adi>Ragnaros the Firelord</Adi>
+                <BinisNoktasi>İstanbul</BinisNoktasi>
+                <InisNoktasi>World of Warcraft Universe</InisNoktasi>
+            </Yolcu>
+            <Yolcu>
+                <Adi>The Lich King</Adi>
+                <BinisNoktasi>İstanbul</BinisNoktasi>
+                <InisNoktasi>World of Warcraft Universe</InisNoktasi>
+            </Yolcu>
+        </Yolcular>
+    </Arac>
+    <Arac>
+        <Turu>Kamyon</Turu>
+        <Plaka>41CPP12</Plaka>
+        <OzluSoz>Drink good beer with good friends</OzluSoz>
+        <Suruculer>
+            <Surucu>
+                <Adi>Egemen Yapucu</Adi>
+                <Yasi>50</Yasi>
+                <EhliyetSinifi>B</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yukler>
+            <Yuk>
+                <Icerik>British Lager Beer</Icerik>
+                <Agirlik>5000</Agirlik>
+                <Hacim>4000</Hacim>
+                <Alici>Serkan Can Caglayan</Alici>
+                <BinisNoktasi>Londra</BinisNoktasi>
+                <InisNoktasi>Istanbul</InisNoktasi>
+            </Yuk>
+        </Yukler>
+    </Arac>
+    <Arac>
+        <Turu>Kamyon</Turu>
+        <Plaka>41CPP13</Plaka>
+        <OzluSoz>Peace at home,peace in the world</OzluSoz>
+        <Suruculer>
+            <Surucu>
+                <Adi>Egemen Yapucu</Adi>
+                <Yasi>50</Yasi>
+                <EhliyetSinifi>B</EhliyetSinifi>
+            </Surucu>
+            <Surucu>
+                <Adi>Semih Demir</Adi>
+                <Yasi>49</Yasi>
+                <EhliyetSinifi>D</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yukler>
+            <Yuk>
+                <Icerik>Mermi</Icerik>
+                <Agirlik>7000</Agirlik>
+                <Hacim>5000</Hacim>
+                <Alici>Commissar Markov</Alici>
+                <BinisNoktasi>Istanbul</BinisNoktasi>
+                <InisNoktasi>Moskova</InisNoktasi>
+            </Yuk>
+            <Yuk>
+                <Icerik>El Bombasi</Icerik>
+                <Agirlik>7000</Agirlik>
+                <Hacim>2000</Hacim>
+                <Alici>Commissar Markov</Alici>
+                <BinisNoktasi>Istanbul</BinisNoktasi>
+                <InisNoktasi>Moskova</InisNoktasi>
+            </Yuk>
+        </Yukler>
+    </Arac>
+    <Arac>
+        <Turu>Kamyon</Turu>
+        <Plaka>41CPP14</Plaka>
+        <OzluSoz>Tuplu ve Ofkeli</OzluSoz>
+        <Suruculer>
+            <Surucu>
+                <Adi>Hasan Fehmi Ozturk</Adi>
+                <Yasi>37</Yasi>
+                <EhliyetSinifi>C</EhliyetSinifi>
+            </Surucu>
+            <Surucu>
+                <Adi>Serkan Can Caglayan</Adi>
+                <Yasi>41</Yasi>
+                <EhliyetSinifi>C</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yukler></Yukler>
+    </Arac>
+    <Arac>
+        <Turu>Kamyon</Turu>
+        <Plaka>41CPP15</Plaka>
+        <OzluSoz>Metal Warriors</OzluSoz>
+        <Suruculer>
+            <Surucu>
+                <Adi>Lemmy Kilmister</Adi>
+                <Yasi>50</Yasi>
+                <EhliyetSinifi>C</EhliyetSinifi>
+            </Surucu>
+            <Surucu>
+                <Adi>Dave Mustaine</Adi>
+                <Yasi>50</Yasi>
+                <EhliyetSinifi>C</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yukler>
+            <Yuk>
+                <Icerik>Elektro Gitar</Icerik>
+                <Agirlik>2500.4</Agirlik>
+                <Hacim>2000</Hacim>
+                <Alici>James Hetfield</Alici>
+                <BinisNoktasi>Londra</BinisNoktasi>
+                <InisNoktasi>California</InisNoktasi>
+            </Yuk>
+            <Yuk>
+                <Icerik>Bass Gitar</Icerik>
+                <Agirlik>3000</Agirlik>
+                <Hacim>2000</Hacim>
+                <Alici>Cliff Burton</Alici>
+                <BinisNoktasi>Londra</BinisNoktasi>
+                <InisNoktasi>California</InisNoktasi>
+            </Yuk>
+        </Yukler>
+    </Arac>
+</Araclar>
